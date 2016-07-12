@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\swapNumbers\swapNumbers\bin\Debug\swapNumbers.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\swapNumbers\swapNumbers\bin\Debug\swapNumbers.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\swapNumbers\swapNumbers\bin\Debug\swapNumbers.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\swapNumbers\swapNumbers\obj\Debug\swapNumbers.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\swapNumbers\swapNumbers\obj\Debug\swapNumbers.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\swapNumbers\swapNumbers\obj\Debug\swapNumbers.pdb
